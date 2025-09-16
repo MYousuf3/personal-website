@@ -1,6 +1,4 @@
-Perfect — here’s your full markdown file with a fun **terminal-style header** at the very top, followed by everything else:
 
-````markdown
 ```bash
 # welcome to muhammad yousuf's portfolio
 
@@ -10,7 +8,7 @@ Perfect — here’s your full markdown file with a fun **terminal-style header*
 > interests: distributed-systems, machine-learning, hpc, side-projects
 
 $ ./launch_portfolio.sh
-````
+```
 
 ---
 
