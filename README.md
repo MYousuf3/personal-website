@@ -144,8 +144,3 @@ github: github.com/MYousuf3
 ## Resume
 
 📄 [View My Resume](MYousufResume27.pdf)
-
-```
-
-Do you want me to also add a **"Now Playing" / "Current Stack"** section in a code block for extra personality, or keep it polished as is?
-```
