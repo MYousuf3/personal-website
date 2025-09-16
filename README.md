@@ -31,7 +31,7 @@ I am a software engineer passionate about building scalable systems, machine lea
 ### Meta — Software Engineering Intern (May 2025 – Aug 2025)
 
 Menlo Park, CA
-![Meta Experience Image Placeholder](meta_experience.png)
+![Meta Experience Image](meta.png)
 
 * Developed verification tool for MTIA Graph Compiler Inductor backend, integrated into PyTorch for automated runtime/accuracy testing.
 * Implemented telemetry data serialization and caching, reducing verification runtime by 30%.
@@ -42,7 +42,7 @@ Menlo Park, CA
 ### John Deere Financial — Software & Data Engineering Intern (May 2024 – Aug 2024)
 
 Johnston, IA
-![John Deere Experience Image Placeholder](johndeere_experience.png)
+![John Deere Experience Image](deere.png)
 
 * Built Asset Valuation Index spanning 10 years using Spark & Databricks.
 * Integrated LightGBM/XGBoost projection models for 18-month economic forecasting.
@@ -53,7 +53,7 @@ Johnston, IA
 ### Johnson & Johnson — Software & Data Engineering Intern (May 2023 – Aug 2023)
 
 Raritan, NJ
-![J\&J Experience Image Placeholder](jnj_experience.png)
+![J\&J Experience Image](jnj.png)
 
 * Developed Python models for EBR manufacturing process in CAR-T cancer therapy.
 * Proposed workflow improvements reducing shift processing bottlenecks.
@@ -64,6 +64,9 @@ Raritan, NJ
 ## Projects
 
 ### [RL Wordle (2025)](https://github.com/MYousuf3/wordle-rl)
+<div style="text-align:center">
+    <img src="demo.gif" width="300" alt="Success Rate">
+</div>
 
 ```python
 # solving wordle with reinforcement learning
