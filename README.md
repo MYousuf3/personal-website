@@ -5,7 +5,7 @@
 > status: online
 > role: software engineer
 > location: new york metropolitan area
-> interests: distributed-systems, machine-learning, hpc, side-projects
+> interests: distributed-systems, machine-learning, acceleration
 
 $ ./launch_portfolio.sh
 ```
