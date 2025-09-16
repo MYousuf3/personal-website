@@ -32,7 +32,7 @@ I am a software engineer passionate about building scalable systems, machine lea
 
 Menlo Park, CA
 <div style="text-align:center">
-    <img src="meta.png" width="200" alt="Meta">
+    <img src="meta.png" width="125" alt="Meta">
 </div>
 
 * Developed verification tool for MTIA Graph Compiler Inductor backend, integrated into PyTorch for automated runtime/accuracy testing.
@@ -45,7 +45,7 @@ Menlo Park, CA
 
 Johnston, IA
 <div style="text-align:center">
-    <img src="deere.png" width="200" alt="DEERE">
+    <img src="deere.png" width="125" alt="DEERE">
 </div>
 
 * Built Asset Valuation Index spanning 10 years using Spark & Databricks.
@@ -58,7 +58,7 @@ Johnston, IA
 
 Raritan, NJ
 <div style="text-align:center">
-    <img src="jnj.png" width="200" alt="JNJ">
+    <img src="jnj.png" width="125" alt="JNJ">
 </div>
 
 * Developed Python models for EBR manufacturing process in CAR-T cancer therapy.
@@ -71,7 +71,7 @@ Raritan, NJ
 
 ### [RL Wordle (2025)](https://github.com/MYousuf3/wordle-rl)
 <div style="text-align:center">
-    <img src="demo.gif" width="200" alt="Success Rate">
+    <img src="demo.gif" width="250" alt="Success Rate">
 </div>
 
 ```python
