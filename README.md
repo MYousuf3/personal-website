@@ -92,7 +92,7 @@ print(f"RL Wordle Agent Win Rate: {win_rate}%")  # 97%
 
 ### [Scribe (2025)](https://github.com/MYousuf3/scribe)
 <div style="text-align:center">
-    <img src="scribe.png" width="225" alt="Scribe">
+    <img src="scribe.png" width="275" alt="Scribe">
 </div>
 ```javascript
 // automatic changelog generation
